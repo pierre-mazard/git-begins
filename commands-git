@@ -9,3 +9,7 @@
 # Commande permettant de pull : 
 	git pull <remote>
 	
+# Commande permettant de switcher d'une branche à une autre : 
+	git branch : affiche les branches actuelles et met en évidance la branche chargée 
+	git checkout <nom-de-branche> : permet de switcher d'une branche à une autre
+
