@@ -6,3 +6,6 @@
 	git push --all : cette commande pousse toutes les branches locales vers le dépôt disant.
 	git push --tags : cette commande pousse toues les balises locales vers le dépôt distant.
 	
+# Commande permettant de pull : 
+	git pull <remote>
+	
