@@ -1,0 +1,8 @@
+# cloner un repository : 
+	git clone <https://lien-github-du-repository>
+
+# Les trois commandes PUSH de git : 
+	git push origin <non-de-branche> : cette commande pousse les modifications locales apportées à la branche spécifiée vers la branche correspondante sur le dépôt distant nommé origin.
+	git push --all : cette commande pousse toutes les branches locales vers le dépôt disant.
+	git push --tags : cette commande pousse toues les balises locales vers le dépôt distant.
+	
